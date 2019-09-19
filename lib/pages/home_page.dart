@@ -20,7 +20,7 @@ class _HomePageState extends State<HomePage> {
               TextField(
                 controller: typeController,
                 decoration: InputDecoration(
-                  contentPadding: EdgeInsets.all(10.0);
+                  contentPadding: EdgeInsets.all(10.0)
                 ),
               )
             ],
